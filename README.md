@@ -10,3 +10,6 @@ Some text
 
 Some next text
 ## Deployment
+
+### Copyright
+Git training
