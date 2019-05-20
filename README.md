@@ -14,6 +14,8 @@ Test text
 
 More texts. Rebase.
 
+Next nice change.
+
 ## Deployment
 
 ### Copyright
